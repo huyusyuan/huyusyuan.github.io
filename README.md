@@ -15,7 +15,7 @@
 int main ()
 {
 
-prinf("hello YAYA\n");
+ prinf("Hello girl\n");
 return 0;
 
 }
